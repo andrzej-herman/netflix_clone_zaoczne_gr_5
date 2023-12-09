@@ -1,0 +1,751 @@
+[
+    {
+        "ID": 1,
+        "GATUNEK": "Sci-Fi",
+        "TYTUŁ FILMU": "TOP GUN: MAVERICK",
+        "REZYSER": "Joseph Kosinski",
+        "LISTA 5 AKTORÓW": [
+            "Tom Cruise",
+            "Miles Teller",
+            "Jennifer Connelly",
+            "Jon Hamm",
+            "Glen Powell"
+        ],
+        "Opis (ok 5 zdań)": "Po ponad 20 latach służby w lotnictwie marynarki wojennej, Pete Maverick Mitchell zostaje wezwany do legendarnej szkoły Top Gun. Ma wyszkolić nowe pokolenie pilotów do niezwykle trudnej misji.",
+        "link do postera": "https://fwcdn.pl/fpo/21/01/602101/8014563.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=g4U4BQW9OEk&ab_channel=ParamountPictures"
+    },
+    {
+        "ID": 2,
+        "GATUNEK": "Sci-Fi",
+        "TYTUŁ FILMU": "Iron Man",
+        "REZYSER": "Jon Favreau",
+        "LISTA 5 AKTORÓW": [
+            "Robert Downey Jr.",
+            "Terrence Howard",
+            "Jeff Bridges",
+            "Shaun Toub",
+            "Gwyneth Paltrow"
+        ],
+        "Opis (ok 5 zdań)": "Kiedy obracający się w najwyższych kręgach geniusz-industrialista Tony Stark zostaje pojmany na terytorium wroga, w ucieczce pomaga mu skonstruowana przy pomocy najnowszej technologii zbroja. Teraz, jako bohater nie zrodzony, lecz zbudowany, Tony udaje się w misję ocalenia świata!",
+        "link do postera": "https://fwcdn.pl/fpo/25/41/122541/7885686.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=8ugaeA-nMTc&ab_channel=RottenTomatoesClassicTrailers"
+    },
+    {
+        "ID": 3,
+        "GATUNEK": "Sci-Fi",
+        "TYTUŁ FILMU": "Batman",
+        "REZYSER": "Matt Reeves",
+        "LISTA 5 AKTORÓW": [
+            "Robert Pattinson",
+            "Zoë Kravitz",
+            "Paul Dano",
+            "Jeffrey Wright",
+            "John Turturro"
+        ],
+        "Opis (ok 5 zdań)": "Fabuła skupia się na postaci Batmana, który próbuje wytropić grasującego w Gotham seryjnego mordercę. Na swojej drodze spotyka jednak wielu przeciwników, którzy skutecznie utrudniają mu jego misję. Odkrywa także, że w jego rodzinie mogło dojść do zbrodni.",
+        "link do postera": "https://fwcdn.pl/fpo/63/18/626318/7998475.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=bw18JwCPqCs&ab_channel=WarnerBrosPolska"
+    },
+    {
+        "ID": 4,
+        "GATUNEK": "dramat",
+        "TYTUŁ FILMU": "Zielona mila",
+        "REZYSER": "Frank Darabont",
+        "LISTA 5 AKTORÓW": [
+            "Michael Clarke Duncan",
+            " Tom Hanks",
+            " David Morse",
+            " James Cromwell",
+            " Bonnie Hunt "
+        ],
+        "Opis (ok 5 zdań)": "Film oparty na powieści Stephena Kinga. Emerytowany strażnik więzienny opowiada przyjaciółce o niezwykłym mężczyźnie, którego skazano na śmierć za zabójstwo dwóch 9-letnich dziewczynek. W latach 30. strażnicy bloku śmierci odkrywają, że jeden ze skazanych morderców posiada moc uzdrawiającą. Fakt ten stawia ich przed dylematem moralnym.",
+        "link do postera": "https://stephenking.pl/wp-content/uploads/2015/08/Zielona-mila-1999-plakat.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=Ki4haFrqSrw"
+    },
+    {
+        "ID": 5,
+        "GATUNEK": "Dramat, Sci-Fi",
+        "TYTUŁ FILMU": "A.I.: sztuczna inteligencja",
+        "REZYSER": "Steven Spielberg",
+        "LISTA 5 AKTORÓW": [
+            "Haley Joel Osment",
+            " Jude Law",
+            " Frances O'Connor",
+            " William Hurt",
+            " Brendan Gleeson"
+        ],
+        "Opis (ok 5 zdań)": "Akcja filmu toczy się w niedalekiej przyszłości. Historia małego chłopca-robota, który jak każdy człowiek chciał kochać i być kochanym.",
+        "link do postera": "https://fwcdn.pl/fpo/36/73/3673/7523501.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=_19pRsZRiz4"
+    },
+    {
+        "ID": 6,
+        "GATUNEK": "Dramat, Sci-Fi",
+        "TYTUŁ FILMU": "Gattaca – szok przyszłości",
+        "REZYSER": "Andrew Niccol",
+        "LISTA 5 AKTORÓW": [
+            "Ethan Hawke",
+            " Uma Thurman",
+            " Jude Law",
+            " Alan Arkin",
+            " Loren Dean"
+        ],
+        "Opis (ok 5 zdań)": "Vincent jest człowiekiem gorszej kategorii, gdyż jego rodzice poczęli go w tradycyjny sposób, zamiast udać się do genetyka, który udoskonaliłby DNA dziecka. Mimo to postanawia nie rezygnować z marzeń",
+        "link do postera": "https://fwcdn.pl/fpo/57/87/5787/6922100.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=NIIZ2P-fiyI"
+    },
+    {
+        "ID": 7,
+        "GATUNEK": "Akcja",
+        "TYTUŁ FILMU": "Shaft",
+        "REZYSER": "Tim Story",
+        "LISTA 5 AKTORÓW": [
+            "Samuel L. Jackson",
+            "Jessie T. Usher",
+            "Richard Roundtree",
+            "Regina Hall",
+            "Alexandra Shipp"
+        ],
+        "Opis (ok 5 zdań)": "John Shaft pomaga swojemu synowi rozwiązać zagadkę przedwczesnej śmierci jego najlepszego przyjaciela.",
+        "link do postera": "https://image.tmdb.org/t/p//w780//joNpwk3wQXpiv6d2bPemjWj3CBd.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=lD41XdWcmbY"
+    },
+    {
+        "ID": 8,
+        "GATUNEK": "Akcja",
+        "TYTUŁ FILMU": "Bad Boys",
+        "REZYSER": "Micheal Bay",
+        "LISTA 5 AKTORÓW": [
+            "Martin Lawrence",
+            "Will Smith",
+            "Tchéky Karyo",
+            "Téa Leoni",
+            "Joe Pantoliano"
+        ],
+        "Opis (ok 5 zdań)": "Marcus i Mike, policjanci z wydziału antynarkotykowego, mają trzy dni na odzyskanie skradzionej z depozytu heroiny wartej 100 mln dolarów.",
+        "link do postera": "https://m.media-amazon.com/images/I/51TX78DVR7L._AC_UF1000,1000_QL80_.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=Xm12NSa8jsM"
+    },
+    {
+        "ID": 9,
+        "GATUNEK": "Sci-Fi",
+        "TYTUŁ FILMU": "Mad Max na drodze gniewu",
+        "REZYSER": "George Miller",
+        "LISTA 5 AKTORÓW": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult",
+            "Hugh Keays-Byrne",
+            "Josh Helman"
+        ],
+        "Opis (ok 5 zdań)": "Po nuklearnej katastrofie świat stał się pustynią. Nieliczni, co przetrwali wybuch, walczą o wodę i wolność od niebezpiecznych organizacji rządzących na Ziemi.",
+        "link do postera": "https://fwcdn.pl/fpo/57/47/95747/7683234.6.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=oF7IYv37v7Q"
+    },
+    {
+        "ID": 10,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Taxi 4",
+        "REZYSER": "Gérard Krawczyk",
+        "LISTA 5 AKTORÓW": [
+            "Samy Naceri",
+            " Frédéric Diefenthal",
+            " Bernard Farcy",
+            " Jean-Luc Couchard",
+            "Édouard Montoute\r"
+        ],
+        "Opis (ok 5 zdań)": "Do komisariatu w Marsylii, gdzie pracuje Émilien,trafia poszukiwany w całej Europie Belg. Émilien daje wiarę jego opowieściom i wypuszcza go na wolność, za co zostaje zwolniony. Z pomocą przychodzi mu zaprzyjaźniony taksówkarz Daniel. Razem starają się schwytać Belga.",
+        "link do postera": "https://fwcdn.pl/fpo/87/99/338799/7567006.6.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=oo5G-C3HGmA"
+    },
+    {
+        "ID": 11,
+        "GATUNEK": "Akcja",
+        "TYTUŁ FILMU": "Mroczny Rycerz",
+        "REZYSER": "Christopher Nolan",
+        "LISTA 5 AKTORÓW": [
+            "Christian Bale",
+            " Heath Ledger",
+            "Michael Caine",
+            "Aaron Eckhart",
+            "Morgan Freeman"
+        ],
+        "Opis (ok 5 zdań)": "Batman wraz z porucznikiem Jimem oraz z pomocą prokuratora Harveya stają do walki z przestępczością. Mafia postanawia pozbyć się człowieka-nietoperza przy pomocy geniusza zbrodni Jokera. Szaleniec jest w stanie zrobić wszystko, by Batman zaczął walkę po ciemnej stronie świata.",
+        "link do postera": "https://fwcdn.pl/fpo/63/51/236351/7599042.6.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=LDG9bisJEaI"
+    },
+    {
+        "ID": 12,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Vabank(1981)",
+        "REZYSER": "Juliusz Machulski",
+        "LISTA 5 AKTORÓW": [
+            "Krzysztof Kiersznowski",
+            "Jan Machulski",
+            "Ryszard Kotys",
+            "Marek Walczewski",
+            "Leonard Pietraszak"
+        ],
+        "Opis (ok 5 zdań)": "Warszawa, lata 30. XX wieku. Po sześciu latach z więzienia wychodzi kasiarz Kwinto, mistrz w swoim fachu. Odsiadkę zawdzięcza Kramerowi,właścicielowi banku, który przed laty namówił kasiarza do skoku na swój bank, by ukryć własne malwersacje, po czym wezwał policję.",
+        "link do postera": "https://media.mutualart.com/Images/2021_02/08/13/134632332/24f618a6-5d64-48c0-88c7-dbf46b28a142.Jpeg?w=480",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=Zk-58nXloVc"
+    },
+    {
+        "ID": 13,
+        "GATUNEK": "Fantastyka",
+        "TYTUŁ FILMU": "Harry Potter i Kamień Filozoficzny",
+        "REZYSER": "Chris Columbus",
+        "LISTA 5 AKTORÓW": [
+            "Daniel Radcliffe",
+            " Emma Watson",
+            " Rupert Grint",
+            " Tom Felton",
+            " Maggie Smith"
+        ],
+        "Opis (ok 5 zdań)": "W dniu jedenastych urodzin Harry dowiaduje się, że jest czarodziejem. Czeka na niego szkoła magii pełna tajemnic.",
+        "link do postera": "https://www.filmweb.pl/film/Harry+Potter+i+Kamie%C5%84+Filozoficzny-2001-30571/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=bpe6WB9sJuU"
+    },
+    {
+        "ID": 14,
+        "GATUNEK": "Fantastyka",
+        "TYTUŁ FILMU": "Harry Potter i Komnata Tajemnic",
+        "REZYSER": "Chris Columbus",
+        "LISTA 5 AKTORÓW": [
+            "Daniel Radcliffe",
+            " Emma Watson",
+            " Rupert Grint",
+            " Tom Felton",
+            " Maggie Smith"
+        ],
+        "Opis (ok 5 zdań)": "Harry Potter powraca do Hogwartu, aby ponownie zmierzyć się z niebezpieczeństwem, tym razem zagrażającym również jego najlepszej przyjaciółce. Podczas drugiego roku pobytu w Szkole Magii i Czarodziejstwa młody Potter spotyka starych wrogów, poznaje nowego nauczyciela, odkrywa w sobie kolejne zdolności, unika śmierci z rąk domowego skrzata chcącego za wszelką cenę uratować mu życie i wraz z dwójką swoich przyjaciół, Ronem (Rupert Grint) i Hermioną (Emma Watson) znów udaje mu się rozwiązać trudną zagadkę.",
+        "link do postera": "https://www.filmweb.pl/film/Harry+Potter+i+Komnata+Tajemnic-2002-32302",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=cpKr7uGo52A"
+    },
+    {
+        "ID": 15,
+        "GATUNEK": "Fantastyka",
+        "TYTUŁ FILMU": "Harry Potter i więzień Azkabanu",
+        "REZYSER": "Alfonso Cuarón",
+        "LISTA 5 AKTORÓW": [
+            "Daniel Radcliffe",
+            " Emma Watson",
+            " Rupert Grint",
+            " Tom Felton",
+            " Maggie Smith"
+        ],
+        "Opis (ok 5 zdań)": "Z więzienia ucieka Syriusz Black, Harry nie może już czuć się bezpiecznie w szkole.",
+        "link do postera": "https://www.filmweb.pl/film/Harry+Potter+i+wi%C4%99zie%C5%84+Azkabanu-2004-34282/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=BV2RLkfYSIM"
+    },
+    {
+        "ID": 16,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Perfect Blue",
+        "REZYSER": "Satoshi Kon",
+        "LISTA 5 AKTORÓW": [
+            "Junko Iwao",
+            " Rica Matsumoto",
+            " Shinpachi Tsuji",
+            " Shiho Niiyama",
+            " Lennie James"
+        ],
+        "Opis (ok 5 zdań)": "Mima, sławna piosenkarka postanawia wypróbować swoje aktorskie możliwości, w wyniku czego porzuca swoje dotychczasowe zajęcie. Szybko jednak okazuje się, że praca aktorki nie jest taką jaką sobie wymarzyła a filmy, w których gra, przepełnione są seksem i brutalnością. Rozdarta wewnętrznie Mima zaczyna mieć halucynacje i prześladuje ją przeszłość w osobie wyimaginowanej Mimy piosenkarki.",
+        "link do postera": "https://www.filmweb.pl/film/Perfect+Blue-1997-98249/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=BD8I4v9U4mw"
+    },
+    {
+        "ID": 17,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Donnie Darko",
+        "REZYSER": "Richard Kelly",
+        "LISTA 5 AKTORÓW": [
+            "Jake Gyllenhaal",
+            " Jena Malone",
+            " Holmes Osborne",
+            " Holmes Osborne",
+            " James Duval"
+        ],
+        "Opis (ok 5 zdań)": "Tytułowy bohater, Donnie (Jake Gyllenhaal), jest nastolatkiem, uważanym za niezrównoważonego psychicznie. Pewnej nocy ujrzał dziwną postać: człowieka-królika, który wywabił go z domu, przez co uratował chłopakowi życie. Podczas kolejnych wizyt królik wyjawia mu, że jest przybyszem z przyszłości i pragnie zapobiec pewnym zdarzeniom",
+        "link do postera": "https://www.filmweb.pl/film/Donnie+Darko-2001-5158/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=bzLn8sYeM9o"
+    },
+    {
+        "ID": 18,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Uzumaki",
+        "REZYSER": "Higuchinsky",
+        "LISTA 5 AKTORÓW": [
+            "Ren Osugi",
+            " Eriko Hatsune",
+            " Fhi Fan",
+            " Hinako Saeki"
+        ],
+        "Opis (ok 5 zdań)": "Spirala - Krzywa płaska o nieskończonej ilości zwojów oddalających się coraz bardziej od punktu wyjściowego i dochodzących do pewnego punktu stałego.\nA co ma spirala do końca świata? Jak się okazuje bardzo dużo!",
+        "link do postera": "https://www.filmweb.pl/film/Spirala-2000-95063/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=6r1_ZoQmqxM"
+    },
+    {
+        "ID": 19,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "TO ",
+        "REZYSER": "Andy Muschietti ",
+        "LISTA 5 AKTORÓW": [
+            "Bill Denbough",
+            " Ben Hanscom",
+            " Beverly Marsh",
+            " Bill Skarsgård",
+            " Mike Hanlon"
+        ],
+        "Opis (ok 5 zdań)": "Kiedy w mieście Derry w stanie Maine zaczynają znikać dzieci, grupa dzieciaków musi stawić czoła swoim największym lękom. Na ich drodze staje nikczemny klaun o imieniu Pennywise, który zapisał się na kartach historii jako morderca lubujący się w zadawaniu bólu. Film oparty jest na motywach niezwykle popularnej powieści Stephena Kinga pod tym samym tytułem, która przeraża czytelników od dziesięcioleci.",
+        "link do postera": "https://www.filmweb.pl/film/To-2017-571114/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=2-K7COJbp1Y"
+    },
+    {
+        "ID": 20,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Cisza",
+        "REZYSER": "John R. Leonetti",
+        "LISTA 5 AKTORÓW": [
+            "Kiernan Shipka",
+            " Miranda Otto",
+            " John Corbett",
+            " Kate Trotter",
+            " Kyle Breitkopf"
+        ],
+        "Opis (ok 5 zdań)": "Ziemię zaatakowały przerażające stworzenia, które namierzają ofiary, nasłuchując ich odgłosów. Szesnastoletnia Ally Andrews (Kiernan Shipka), która straciła słuch w wieku 13 lat, wraz z rodziną szuka schronienia na odludziu, gdzie natrafia na groźną sektę pragnącą wykorzystać jej nieprzeciętne zdolności.",
+        "link do postera": "https://www.filmweb.pl/film/Cisza-2021-10034096/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=lqenvyROi20"
+    },
+    {
+        "ID": 21,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": 1922,
+        "REZYSER": "Zak Hilditch",
+        "LISTA 5 AKTORÓW": [
+            "Brian d'Arcy",
+            " Kaitlyn Bernard",
+            " Dylan Schmid",
+            " Molly Parker",
+            " Thomas Jane"
+        ],
+        "Opis (ok 5 zdań)": "Produkcja 1922 opowiada historię farmera, Wilfreda Jamesa, który postanawia odpokutować winę za zabicie żony, przelewając historię swojego życia i grzechów na papier. Okazuje się, że kością niezgody w ich związku była ziemia, którą kobieta odziedziczyła po ojcu. Wszelkie niesnaski i napięcie, związane z próbą sprzedaży terenu, doprowadzają w końcu do tragedii. Okazuje się, że najgorsze dopiero przed Wilfredem. Z czasem pewnego rodzaju klątwa dotyka samego farmera i jego syna. Symbolem fatum, ciążącego nad mężczyzną, stają się wszechobecne szczury.",
+        "link do postera": "https://www.filmweb.pl/film/1922-2017-786296/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=9klV23UZvDA"
+    },
+    {
+        "ID": 22,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Rekiny wojny",
+        "REZYSER": "Todd Phillips",
+        "LISTA 5 AKTORÓW": [
+            "Jonah Hill",
+            " Miles Teller",
+            " Bradley Cooper",
+            " Ana de Armas",
+            " Kevin Pollak"
+        ],
+        "Opis (ok 5 zdań)": "Prawdziwa historia dwóch dwudziestoparolatków Davida Packouza i Efraima Diveroliego (Hill i Teller), mieszkających w Miami, którym udaje się wykorzystać mało znany projekt rządowy, pozwalający niewielkim firmom brać udział w przetargach na kontrakty dla amerykańskiej armii. Panowie zaczynają skromnie, ale z czasem zgarniają mnóstwo pieniędzy, dzięki czemu żyją jak królowie. Duet wpada w tarapaty, kiedy zdobywa kontrakt o wartości 300 mln dolarów na uzbrojenie wojska stacjonującego w Afganistanie. Aby go zrealizować, przyjaciele muszą podjąć współpracę z typami spod ciemnej gwiazdy, którzy okazują się być przedstawicielami rządu Stanów Zjednoczonych.",
+        "link do postera": "https://www.filmweb.pl/film/Rekiny+wojny-2016-731322/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=ckShfbAWc3c"
+    },
+    {
+        "ID": 23,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Zabójcze wesele",
+        "REZYSER": "Jeremy Garelick",
+        "LISTA 5 AKTORÓW": [
+            "Adam Sandler",
+            " Jennifer Aniston",
+            " Mélanie Laurent",
+            " Mark Strong",
+            " Tony Goldwyn"
+        ],
+        "Opis (ok 5 zdań)": "Nick i Audrey Spitz, którzy właśnie założyli własną agencję detektywistyczną, rozpracowują sprawę porwania ich przyjaciela — miliardera uprowadzonego z własnego wesela.",
+        "link do postera": "https://www.filmweb.pl/film/Zab%C3%B3jcze+wesele-2023-10020246/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=k15Ycpnet7w"
+    },
+    {
+        "ID": 24,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Jeszcze dalej niż północ",
+        "REZYSER": "Dany Boon",
+        "LISTA 5 AKTORÓW": [
+            "Kad Merad",
+            " Dany Boon",
+            " Philippe Duquesne",
+            " Anne Marivin",
+            " Zoé Félix"
+        ],
+        "Opis (ok 5 zdań)": "Philippe Abrams jest naczelnikiem poczty w Salon-de-Provence. Ma synka i żonę Julie o skłonnościach depresyjnych, która marzy, by zamieszkać na Lazurowym Wybrzeżu. Philippe pragnie uszczęśliwić ją za wszelką cenę. Dopuszcza się oszustwa, w nadziei na uzyskanie posady na Riwierze. Niestety, przekręt wychodzi na jaw. Za karę zostaje oddelegowany do Bergues, małego miasteczka na północy Francji. Abramsowie, typowi południowcy, wyobrażają sobie Północ jako zimną krainę, zamieszkaną przez ciemny lud, posługujący się niezrozumiałym narzeczem – „cheutimi”. Philippe jedzie sam, rodzina zostaje w Prowansji. Ku jego wielkiemu zaskoczeniu, miasteczko okazuje się urokliwe, a mieszkańcy – gościnni i sympatyczni.",
+        "link do postera": "https://as.repertuary.pl/images/dbimages/film_5288_original_1.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=yvKFg0iuo0U"
+    },
+    {
+        "ID": 25,
+        "GATUNEK": "Fantasy, Komedia",
+        "TYTUŁ FILMU": "Goście, goście",
+        "REZYSER": "Jean-Marie Poiré",
+        "LISTA 5 AKTORÓW": [
+            "Jean Reno",
+            " Christian Clavier",
+            " Valérie Lemercier",
+            " Marie-Anne Chazel",
+            " Christian Bujeau"
+        ],
+        "Opis (ok 5 zdań)": "Rok 1123. Godfryd de Maplhete zwany Śmiałym (Jean Reno) w podzięce za uratowanie życia królowi Francji Ludwikowi VI otrzymuje od niego 8 dni na odszukanie i poślubienie swej ukochanej, księżniczki Frenegundy de Pouille (Valérie Lemercier). W wyprawie towarzyszy Śmiałemu jego wierny giermek - Jacquouille (Christian Clavier). Niestety jak się okaże nie wszystko pójdzie po myśli bohaterów i w wyniku splotu niespodziewanych wydarzeń zostaną przeniesieni do XX wieku",
+        "link do postera": "https://gapla.fn.org.pl/public/cache/P20315-1000x1000.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=rI44jjsDULY"
+    },
+    {
+        "ID": 26,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Jestem legendą",
+        "REZYSER": "Francis Lawrence",
+        "LISTA 5 AKTORÓW": [
+            "Will Smith",
+            " Alice Braga",
+            " Salli Richardson-Whitfield",
+            " Charlie Tahan",
+            " Paradox Pollack"
+        ],
+        "Opis (ok 5 zdań)": "Rok 2012, Nowy Jork. Mieszkańcy miasta zostają zaatakowani przez tajemniczego wirusa, który zmienia ludzi w krwiożercze potwory. Naukowiec Robert Neville jest zdeterminowany. Chce zrobić wszystko, co tylko w jego mocy, by znaleźć skuteczną szczepionkę przeciwko wirusowi. Tym bardziej, że jest jedynym człowiekiem, który jest odporny na działanie wirusa. Z powodu przerażającej epidemii większość mieszkańców miasta, a prawdopodobnie też i całego świata, zginęła, inni zaś zamienili się w niebezpieczne bestie. Przez trzy lata Neville bezskutecznie wysyłał w świat radiowe sygnały z nadzieją, że oprócz niego jeszcze ktoś inny ocalał. Wkrótce potwory zaczynają polować na Roberta. Śledzą każdy jego ruch i czekają, aż popełni błąd. Chcą zdobyć jego krew. On jednak uparcie szuka sposobu na odwrócenie działań groźnego wirusa, a czasu jest coraz mniej.",
+        "link do postera": "https://fwcdn.pl/fpo/78/01/217801/7182225.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=dtKMEAXyPkg&ab_channel=RottenTomatoesClassicTrailers"
+    },
+    {
+        "ID": 27,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Amityville",
+        "REZYSER": "Andrew Douglas",
+        "LISTA 5 AKTORÓW": [
+            "Ryan Reynolds",
+            " Melissa George",
+            " Jesse James",
+            " Jimmy Bennett",
+            " Cachel Nichols"
+        ],
+        "Opis (ok 5 zdań)": "13 listopada 1974, o 03.15 w nocy 23 letni Ronald Defeo oglądając telewizję we własnym domu słyszy głos nakazujący mu zabić całą rodzinę, nie oszczędza nikogo, nawet dzieci. Ginie sześć osób, wszyscy w swoich łóżkach, za wyjątkiem najmłodszej Jodie, która zostaje zabita w szafie. Rok później ów feralny dom, którego fundamenty pochodzą z 1692r. nabywają Kathy i George Lutz. Przeprowadzają się tam z trójką dzieci Kathy z pierwszego małżeństwa. Od pierwszego dnia w nowym domu George słyszy niezrozumiałe szepty, a w nocy o 03.15 ma wizję martwej Jodie. Następnego dnia córa Kathy, Chelsea oznajmia, że ma nową niewidzialną dla innych przyjaciółkę, jest nią Jodie. Następnej nocy o tej samej godzinie dom zaczyna żyć własnym życiem, demony przeszłości zaczynają wychodzić z ukrycia. Czy rodzina Lutzów zdoła uchronić się przed katastrofą?",
+        "link do postera": "https://fwcdn.pl/fpo/87/33/118733/7538076.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=j_Lm2PXb3tk&ab_channel=MGM"
+    },
+    {
+        "ID": 28,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Zakonnica",
+        "REZYSER": "Corin Hardy",
+        "LISTA 5 AKTORÓW": [
+            "Demian Bichir",
+            " Taissa Farmiga",
+            " Jonas Bloquet",
+            " Bonnie Aarons",
+            " Ingrid Bisu"
+        ],
+        "Opis (ok 5 zdań)": "Kiedy młoda zakonnica odbiera sobie życie w klasztorze w Rumunii, nękany zmorami z przeszłości ksiądz i nowicjuszka, która ma właśnie złożyć śluby zakonne, zostają wysłani przez Watykan, aby zbadać tę sprawę. Wspólnie odkrywają niechlubny sekret zakonu. Ryzykując nie tylko własnym życiem, ale też swą wiarą i duszami, stawiają czoła złowrogiej sile pod postacią tej samej demonicznej zakonnicy, która po raz pierwszy przerażała widzów w Obecności 2. Natomiast opactwo staje się straszliwym polem walki toczącej się między żywymi i potępieńcami.",
+        "link do postera": "https://fwcdn.pl/fpo/70/24/777024/7849765.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=2LrC612fmT4&ab_channel=WarnerBrosPolska"
+    },
+    {
+        "ID": 29,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Kac Vegas",
+        "REZYSER": "Todd Philips",
+        "LISTA 5 AKTORÓW": [
+            "Bradley Cooper",
+            " Ed Helms",
+            " Zach Galifianakis",
+            " Justin Bartha",
+            " Heather Graham"
+        ],
+        "Opis (ok 5 zdań)": "Doug Billings wraz z trzema kumplami wyrusza do Las Vegas, by spędzić tam swój wieczór kawalerski. Kierując się maksymą przyszłego teścia: wszystko, co wydarzy się w Vegas, zostaje w Vegas, kumple udają się do stolicy hazardu i rozrywki z nadzieją na świetną zabawę i niezapomniane chwile. Swoją przygodę rozpoczynają od toastu na dachu hotelu, w którym się zameldowali i… to jest ostatnia rzecz jaką następnego dnia pamiętają po przebudzeniu się w wynajętym apartamencie. Oprócz potwornego kaca i zaniku pamięci czeka ich jeszcze kilka niespodzianek: pokój hotelowy jest zdemolowany, z garderoby słychać płacz dziecka, w łazience siedzi tygrys, a Doug gdzieś zniknął. Phil, Stu i Alan postanawiają odnaleźć pana młodego i dowiedzieć się, co tak naprawdę stało się ostatniej nocy.",
+        "link do postera": "https://fwcdn.pl/fpo/72/11/487211/7258810.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=tcdUhdOlz9M&ab_channel=RottenTomatoesClassicTrailers"
+    },
+    {
+        "ID": 30,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Kiler",
+        "REZYSER": "Juliusz Machulski",
+        "LISTA 5 AKTORÓW": [
+            "Cezary Pazura",
+            " Małgorzata Kożuchowska",
+            " Jerzy Stuhr",
+            " Katarzyna Figura",
+            " Janusz Rewiński"
+        ],
+        "Opis (ok 5 zdań)": "Budząc się pewnego dnia we własnym łóżku, Jurek Kiler zostaje aresztowany przez brygadę antyterrorystyczną. Policja bierze go za groźnego przestępcę, gdyż w bagażniku jego taksówki znaleziono karabin, z którego poprzedniego dnia zabito człowieka. Jurek trafia do więzienia, gdzie od razu staje się gwiazdą wśród kryminalistów. Na nic zdają się tłumaczenia, że oskarżony jest tylko taksówkarzem. Komisarz Ryba nie daje się przekonać, jest absolutnie pewien, że złapał poszukiwanego w całej Europie seryjnego zabójcę. Siara, gruba ryba świata przestępczego, na wieść o zatrzymaniu Kilera organizuje błyskawiczną akcję i odbija go z rąk policji. Nie wiedząc z kim naprawdę ma do czynienia, zleca mu kolejne zadanie. Pogłoski o niebywałych wyczynach Kilera zataczają coraz szersze kręgi. Jurek tymczasem dochodzi do wniosku, że wyjaśnienie nieporozumienia zupełnie mu się nie opłaca. Z pomocą dziennikarki realizuje sprytny plan.",
+        "link do postera": "https://fwcdn.pl/fpo/05/29/529/6900785.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=0QsgQgT0O5E&ab_channel=MikeWhite"
+    },
+    {
+        "ID": 31,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Ojciec Chrzestny",
+        "REZYSER": "Francis Ford Coppola",
+        "LISTA 5 AKTORÓW": [
+            "Marlon Brando",
+            " Al Pacino",
+            " James Caan",
+            " Richard S. Castellano",
+            " Robert Duvall",
+            " Sterling Hayden",
+            " John Marley",
+            " Richard Conte"
+        ],
+        "Opis (ok 5 zdań)": "Opowieść o nowojorskiej rodzinie mafijnej. Starzejący się Don Corleone pragnie przekazać władzę swojemu synowi.",
+        "link do postera": "https://ocdn.eu/images/pulscms/YzI7MDA_/a2d37dc473c4288debf2e4138442405e.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=PfBUuXtXceA&ab_channel=Zwiastuny"
+    },
+    {
+        "ID": 32,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Ojciec Chrzestny II",
+        "REZYSER": "Francis Ford Coppola",
+        "LISTA 5 AKTORÓW": [
+            "Al Pacino",
+            " Andy García",
+            " Diane Keaton",
+            " Eli Wallach",
+            " Sofia Coppola",
+            " Joe Mantegna",
+            " Talia Shire",
+            " George Hamilton",
+            " Richard Bright",
+            " Bridget Fonda",
+            " Raf Vallone",
+            " Vittorio Duse",
+            " Franc D’Ambrosio",
+            "Donal Donnelly",
+            " Helmut Berger ",
+            " Don Novello ",
+            " John Savage",
+            " Al Ruscio"
+        ],
+        "Opis (ok 5 zdań)": "",
+        "link do postera": "https://cdn.chili.com/images/public/cms/44/92/d9/4d/4492d94d-e479-49fc-9ebf-321fa7947be0.jpg?width=800",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=9O1Iy9od7-A&ab_channel=ParamountMovies"
+    },
+    {
+        "ID": 33,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Ojciec Chrzestny III",
+        "REZYSER": "Francis Ford Coppola",
+        "LISTA 5 AKTORÓW": [
+            "Al Pacino",
+            " Robert De Niro",
+            " Diane Keaton",
+            " Robert Duvall",
+            " John Cazale",
+            " Talia Shire",
+            " Lee Strasberg",
+            " Michael V. Gazzo",
+            " G.D. Spradlin",
+            " Richard Bright",
+            " Dominic Chianese ",
+            " Bruno Kirby",
+            " James Caan",
+            " Giuseppe Sillato",
+            " Roman Coppola",
+            " John Megna",
+            " Julian Voloshin",
+            " Larry Guardino"
+        ],
+        "Opis (ok 5 zdań)": "",
+        "link do postera": "https://fwcdn.pl/fpo/10/91/1091/7196617.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=5TWIvLVQncs&ab_channel=ParamountPicturesAustralia"
+    },
+    {
+        "ID": 34,
+        "GATUNEK": "Akcja",
+        "TYTUŁ FILMU": "Incepcja",
+        "REZYSER": "Christopher Nolan",
+        "LISTA 5 AKTORÓW": [
+            "Leonardo DiCaprio",
+            " Joseph Gordon-Levitt",
+            " Cillian Murphy",
+            " Tom Hardy",
+            " Elliot Page"
+        ],
+        "Opis (ok 5 zdań)": "W świecie zbieraczy snów, specjalista ds. kradzieży informacji, Dom Cobb (Leonardo DiCaprio), zostaje zwerbowany do wykonania niemożliwej misji - wszczepienia idei do umysłu zamiast jej kradzieży. W miarę jak grupa zbieraczy snów przenika przez różne poziomy świadomości, granice między rzeczywistością a snem zaczynają się zacierać.",
+        "link do postera": "https://fwcdn.pl/fpo/08/91/500891/7354571.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=Jvurpf91omw"
+    },
+    {
+        "ID": 35,
+        "GATUNEK": "Komediodramat ",
+        "TYTUŁ FILMU": "La La Land",
+        "REZYSER": "Damien Chazelle",
+        "LISTA 5 AKTORÓW": [
+            "Emma Stone",
+            " Ryan Gosling",
+            " John Legend",
+            " Sonoya MIzuno",
+            " Finn Wittrock"
+        ],
+        "Opis (ok 5 zdań)": "W Los Angeles dwójka artystów, Sebastian (Ryan Gosling), marzący jazzowy pianista, i Mia (Emma Stone), aspirująca aktorka, spotyka się przypadkowo i zakochuje. Film opowiada o ich miłosnej historii, dążeniu do spełniania swoich artystycznych marzeń oraz trudnościach związanych z osiągnięciem sukcesu w świecie rozrywki.",
+        "link do postera": "https://fwcdn.pl/fpo/88/19/718819/7774367.3.jpg",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+    },
+    {
+        "ID": 36,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Irlandczyk",
+        "REZYSER": "Martin Scorsese ",
+        "LISTA 5 AKTORÓW": [
+            "Robert De Niro",
+            " Al Pacino",
+            " Joe Pesci",
+            " Harley Keitel",
+            " Ray Romano "
+        ],
+        "Opis (ok 5 zdań)": "Płatny zabójca Frank Sheeran powraca do sekretów których strzegł jako lojalny członek rodziny przestępczej Bufalino ",
+        "link do postera": "https://www.filmweb.pl/film/Irlandczyk-2019-513794",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=WHXxVmeGQUc"
+    },
+    {
+        "ID": 37,
+        "GATUNEK": "Horror",
+        "TYTUŁ FILMU": "Obecność",
+        "REZYSER": "James Wann",
+        "LISTA 5 AKTORÓW": [
+            "Vera Farmiga",
+            " Patrick Wilson",
+            " Sterling Jerns",
+            " Shannon Kook",
+            " Joey King"
+        ],
+        "Opis (ok 5 zdań)": "Słynna para badaczy zjawisk paranormalnych zostaje poproszona o pomoc rodzinie którą terroryzuje potęzny demon",
+        "link do postera": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81YTU-rOk3L._AC_UF894%2C1000_QL80_.jpg&tbnid=Xcs_kCMkubf5yM&vet=12ahUKEwi4k5--zYCDAxU08rsIHbRhC3cQMygCegQIARBS..i&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FTrends-International-Conjuring-One-Premium-Unframed%2Fdp%2FB081PDXKVH&docid=r2q3YB-bypLMAM&w=658&h=1000&q=conjuring%20poster&ved=2ahUKEwi4k5--zYCDAxU08rsIHbRhC3cQMygCegQIARBS",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=yOOdDin4OCA"
+    },
+    {
+        "ID": 38,
+        "GATUNEK": "Science Fiction",
+        "TYTUŁ FILMU": "Venom ",
+        "REZYSER": "Ruben Fleischer",
+        "LISTA 5 AKTORÓW": [
+            "Tom Hardy",
+            " Michelle Williams",
+            " Riz Ahmed",
+            " Scott Haze",
+            " Reid Scott"
+        ],
+        "Opis (ok 5 zdań)": "Dziennikarz w którego ciało wstępuje kosmiczny synbiod zapewniający przerażające supermoce walczy na śmierć i życie z szalonym naukowcem",
+        "link do postera": "https://www.filmweb.pl/film/Venom-2018-519906#",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=u9Mv98Gr5pY"
+    },
+    {
+        "ID": 39,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Grinch",
+        "REZYSER": "Scott Mosier, Yarrow Cheney",
+        "LISTA 5 AKTORÓW": [
+            "Benedict Cucumberbatch",
+            " Cameron Seely",
+            " Rashida Jones",
+            " Pharrell Williams",
+            " Kenan Thompson"
+        ],
+        "Opis (ok 5 zdań)": "Mieszkańcy Ktosiowa z niecpierpliwością czekają na Boże Narodzenie. Jednak Grinch robi wszystko aby je popsuć. Czy małej dziewczynce uda się uratować święta? ",
+        "link do postera": "https://www.filmweb.pl/film/Grinch%3A+%C5%9Bwi%C4%85t+nie+b%C4%99dzie-2000-1429#",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=vjnqABgxfO0"
+    },
+    {
+        "ID": 40,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Cast Away - Poza światem ",
+        "REZYSER": "Robert Zemeckis",
+        "LISTA 5 AKTORÓW": [
+            "Tom Hanks",
+            " Helen Hunt",
+            " Nick Searcy",
+            " Jenifer Lewis",
+            " Geoffrey Blake",
+            " "
+        ],
+        "Opis (ok 5 zdań)": "Po katastrofie samolotu mężczyzna trafia na bezludną wyspę i latami walczy o przetrfanie kluczowo trzymając się nadzieji że kiedys wróci do domu. ",
+        "link do postera": "https://www.filmweb.pl/film/Cast+Away+poza+%C5%9Bwiatem-2000-1470#",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=qGuOZPwLayY"
+    },
+    {
+        "ID": 41,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Świat wg. Kiepskich",
+        "REZYSER": "Dramat",
+        "LISTA 5 AKTORÓW": [
+            "Cezary Pazura",
+            " Małgorzata Ostrowska",
+            " Bożena Dykiel",
+            " Andrzej Grabowski",
+            " Marzena Kipiel-Sztuka"
+        ],
+        "Opis (ok 5 zdań)": "Świat według Kiepskich to długoemitowany polski serial komediowy, ceniony za satyrę społeczną, kultowe postacie (jak Marian i Halina Kiepscy grane przez Cezarego Pazurę i Małgorzatę Ostrorską) oraz humor oparty na codziennych perypetiach rodziny, zdobywając międzynarodowy rozgłos.",
+        "link do postera": "https://www.filmweb.pl/serial/%C5%9Awiat+wed%C5%82ug+Kiepskich-1999-87947/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=xNEq63SAMBA&t"
+    },
+    {
+        "ID": 42,
+        "GATUNEK": "Sci-Fi",
+        "TYTUŁ FILMU": "Incepcja",
+        "REZYSER": "Christopher Nolan",
+        "LISTA 5 AKTORÓW": [
+            "Leonardo DiCaprio",
+            " Joseph Gordon-Levitt",
+            " Ellen Page",
+            " Tom Hardy",
+            " Ken Watanabe"
+        ],
+        "Opis (ok 5 zdań)": "Grupa specjalistów wkracza w środki snów, aby manipulować myślami i informacjami. Film eksploruje złożoność ludzkiego umysłu.",
+        "link do postera": "https://www.filmweb.pl/film/Incepcja-2010-500891/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=DhpuumpKyHA"
+    },
+    {
+        "ID": 43,
+        "GATUNEK": "Dramat",
+        "TYTUŁ FILMU": "Skazani na Shawshank",
+        "REZYSER": "Frank Darabont",
+        "LISTA 5 AKTORÓW": [
+            "Tim Robbins",
+            " Morgan Freeman",
+            " Bob Gunton",
+            " William Sadler",
+            " Clancy Brown"
+        ],
+        "Opis (ok 5 zdań)": "Historia przyjaźni i nadziei w więzieniu, która pokazuje, że nawet w najciemniejszych miejscach można znaleźć światło.",
+        "link do postera": "https://www.filmweb.pl/film/Skazani+na+Shawshank-1994-1048/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=3TGpUNWUREQ"
+    },
+    {
+        "ID": 44,
+        "GATUNEK": "Akcja",
+        "TYTUŁ FILMU": "Matrix",
+        "REZYSER": "Lana i Lilly Wachowski",
+        "LISTA 5 AKTORÓW": [
+            "Keanu Reeves",
+            " Laurence Fishburne",
+            " Carrie-Anne Moss",
+            " Hugo Weaving",
+            " Joe Pantoliano"
+        ],
+        "Opis (ok 5 zdań)": "Neo odkrywa, że świat, w którym żyje, to jedynie iluzja, a on sam jest kluczową postacią w walce o wolność ludzkości.",
+        "link do postera": "https://www.filmweb.pl/film/Matrix-1999-628/posters",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=7SsSvx7Wt1s"
+    },
+    {
+        "ID": 45,
+        "GATUNEK": "Komedia",
+        "TYTUŁ FILMU": "Szybcy i wściekli",
+        "REZYSER": "Rob Cohen",
+        "LISTA 5 AKTORÓW": [
+            "Vin Diesel",
+            " Paul Walker",
+            " Michelle Rodriguez",
+            " Jordana Brewster",
+            " Rick Yune"
+        ],
+        "Opis (ok 5 zdań)": "Świat undergroundowych wyścigów samochodowych i skomplikowanych relacji rodzinnych.",
+        "link do postera": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmweb.pl%2Ffilm%2FSzybcy%2Bi%2Bw%25C5%259Bciekli-2001-30588%2Fposters&psig=AOvVaw2TgXHCQ2NStAdFwbqe1Gtt&ust=1702205390062000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOChm62XgoMDFQAAAAAdAAAAABAE",
+        "LINK do zwiastunu na YouTube": "https://www.youtube.com/watch?v=o_xd7ZCk8p0"
+    }
+]
